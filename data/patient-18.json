@@ -1,0 +1,18 @@
+{
+  "patient_name": "Olivia Martinez",
+  "discharge_date": "2024-01-23",
+  "primary_diagnosis": "Diabetic Nephropathy, Stage 3",
+  "medications": [
+    "Semaglutide (Ozempic) 0.5mg weekly",
+    "Jardiance 10mg daily",
+    "Losartan 100mg daily"
+  ],
+  "dietary_restrictions": "Diabetic diet (low carbohydrate), low sodium (2g/day)",
+  "follow_up": "Endocrinologist in 1 month, Nephrologist in 3 months",
+  "warning_signs": [
+    "Blood sugar logs consistently high or low",
+    "New swelling",
+    "Dizziness"
+  ],
+  "discharge_instructions": "Keep a detailed log of your blood sugar readings to share with your endocrinologist."
+}

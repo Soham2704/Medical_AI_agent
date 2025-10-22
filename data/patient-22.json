@@ -1,0 +1,17 @@
+{
+  "patient_name": "John Smith",
+  "discharge_date": "2024-01-28",
+  "primary_diagnosis": "Kidney Stones",
+  "medications": [
+    "Tamsulosin 0.4mg daily",
+    "Oxycodone 5mg as needed for severe pain"
+  ],
+  "dietary_restrictions": "Increase fluid intake (3L/day)",
+  "follow_up": "Urology in 1 week",
+  "warning_signs": [
+    "Uncontrolled pain",
+    "Fever",
+    "Inability to urinate"
+  ],
+  "discharge_instructions": "Strain all urine. (This is a second duplicate name to test the error handling)"
+}

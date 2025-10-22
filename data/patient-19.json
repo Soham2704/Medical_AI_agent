@@ -1,0 +1,18 @@
+{
+  "patient_name": "William Johnson",
+  "discharge_date": "2024-01-25",
+  "primary_diagnosis": "Hypertensive Kidney Disease, Stage 4",
+  "medications": [
+    "Hydralazine 50mg three times daily",
+    "Furosemide 80mg twice daily",
+    "Clonidine 0.1mg twice daily"
+  ],
+  "dietary_restrictions": "Strict low sodium (1.5g/day), fluid restriction (1.5L/day)",
+  "follow_up": "Nephrology clinic in 1 week for blood pressure check",
+  "warning_signs": [
+    "Blood pressure readings > 160/100",
+    "Dizziness or lightheadedness",
+    "Sudden weight gain"
+  ],
+  "discharge_instructions": "Monitor your blood pressure closely. Do not stop any blood pressure medication abruptly."
+}

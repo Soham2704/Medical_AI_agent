@@ -1,0 +1,17 @@
+{
+  "patient_name": "James Peterson",
+  "discharge_date": "2024-01-25",
+  "primary_diagnosis": "Kidney Stones (Renal Calculi)",
+  "medications": [
+    "Tamsulosin 0.4mg daily",
+    "Ibuprofen 600mg as needed for pain"
+  ],
+  "dietary_restrictions": "Increase fluid intake (3-4L/day), low oxalate diet",
+  "follow_up": "Urology in 2 weeks, bring any passed stones",
+  "warning_signs": [
+    "Severe pain in side or back",
+    "Fever or chills",
+    "Nausea and vomiting"
+  ],
+  "discharge_instructions": "You must strain all your urine to catch any stones that pass. Drink plenty of water."
+}

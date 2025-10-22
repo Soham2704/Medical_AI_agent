@@ -1,0 +1,17 @@
+{
+  "patient_name": "Lisa Ray",
+  "discharge_date": "2024-01-20",
+  "primary_diagnosis": "IgA Nephropathy",
+  "medications": [
+    "Prednisone 40mg daily (tapering schedule provided)",
+    "Ramipril 10mg daily"
+  ],
+  "dietary_restrictions": "Low sodium diet",
+  "follow_up": "Nephrology clinic in 2 weeks for lab review",
+  "warning_signs": [
+    "Visible blood in urine (dark or cola-colored)",
+    "Foamy urine",
+    "New swelling"
+  ],
+  "discharge_instructions": "Follow the prednisone tapering schedule exactly. Do not stop steroids suddenly. Monitor for signs of infection (fever, cough)."
+}

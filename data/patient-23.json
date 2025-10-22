@@ -1,0 +1,17 @@
+{
+  "patient_name": "Lucas Grey",
+  "discharge_date": "2024-01-27",
+  "primary_diagnosis": "Minimal Change Disease",
+  "medications": [
+    "Prednisone 80mg daily",
+    "Albumin infusion (completed in hospital)"
+  ],
+  "dietary_restrictions": "Severe low sodium (1g/day) diet",
+  "follow_up": "Nephrology clinic in 3 days",
+  "warning_signs": [
+    "Rapid weight gain",
+    "Extreme swelling",
+    "Foamy urine"
+  ],
+  "discharge_instructions": "Track your daily weight and urine protein (if given test strips). Report any signs of infection."
+}

@@ -1,0 +1,18 @@
+{
+  "patient_name": "Emily Davis",
+  "discharge_date": "2024-01-22",
+  "primary_diagnosis": "Nephrotic Syndrome",
+  "medications": [
+    "Prednisone 60mg daily",
+    "Lisinopril 5mg daily",
+    "Furosemide 40mg daily"
+  ],
+  "dietary_restrictions": "Strict low sodium (1.5g/day), fluid restriction (1L/day)",
+  "follow_up": "Primary care doctor in 3 days for check-up, nephrology in 1 week",
+  "warning_signs": [
+    "Sudden weight gain (>2 lbs in one day)",
+    "Significant swelling in legs, face, or abdomen",
+    "Foamy urine"
+  ],
+  "discharge_instructions": "Weigh yourself every morning. Keep a log of your weight and blood pressure."
+}

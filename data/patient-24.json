@@ -1,0 +1,19 @@
+{
+  "patient_name": "Chloe Brown",
+  "discharge_date": "2024-01-26",
+  "primary_diagnosis": "Lupus Nephritis",
+  "medications": [
+    "Mycophenolate Mofetil (CellCept) 1000mg twice daily",
+    "Prednisone 20mg daily",
+    "Hydroxychloroquine (Plaquenil) 200mg daily"
+  ],
+  "dietary_restrictions": "Low sodium diet",
+  "follow_up": "Rheumatology and Nephrology in 2 weeks",
+  "warning_signs": [
+    "Joint pain",
+    "Skin rash",
+    "Fever",
+    "Swelling"
+  ],
+  "discharge_instructions": "Avoid prolonged sun exposure. Take Mycophenolate on an empty stomach."
+}

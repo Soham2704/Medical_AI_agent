@@ -1,0 +1,17 @@
+{
+  "patient_name": "Carlos Hernandez",
+  "discharge_date": "2024-01-24",
+  "primary_diagnosis": "Acute Kidney Injury (AKI) secondary to dehydration",
+  "medications": [
+    "Discontinue all NSAIDs (Ibuprofen, Naproxen)",
+    "Oral rehydration fluids"
+  ],
+  "dietary_restrictions": "Increase fluid intake (at least 3L/day), regular diet",
+  "follow_up": "Primary care doctor in 3 days for repeat blood work (creatinine check)",
+  "warning_signs": [
+    "Decreased urine output",
+    "Dizziness",
+    "Extreme thirst"
+  ],
+  "discharge_instructions": "Focus on staying well-hydrated. Avoid any over-the-counter pain medications unless approved by your doctor."
+}

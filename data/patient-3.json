@@ -1,0 +1,19 @@
+{
+  "patient_name": "Robert Brown",
+  "discharge_date": "2024-01-18",
+  "primary_diagnosis": "Kidney Stones (Renal Calculi)",
+  "medications": [
+    "Tamsulosin 0.4mg daily",
+    "Ibuprofen 600mg as needed for pain",
+    "Ondansetron 4mg as needed for nausea"
+  ],
+  "dietary_restrictions": "Increase fluid intake (3L/day), low oxalate diet",
+  "follow_up": "Urology clinic in 2 weeks with new KUB x-ray",
+  "warning_signs": [
+    "Severe pain in side or back",
+    "Fever or chills",
+    "Vomiting",
+    "Blood in urine"
+  ],
+  "discharge_instructions": "Strain all urine to catch any passed stones and bring them to your follow-up."
+}

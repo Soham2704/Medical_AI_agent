@@ -1,0 +1,17 @@
+{
+  "patient_name": "Michael Brown",
+  "discharge_date": "2024-01-26",
+  "primary_diagnosis": "Glomerulonephritis",
+  "medications": [
+    "Cyclophosphamide (oral) 100mg daily",
+    "Prednisone 50mg daily"
+  ],
+  "dietary_restrictions": "Low sodium diet, low protein diet",
+  "follow_up": "Nephrology in 1 week for lab monitoring",
+  "warning_signs": [
+    "Dark or rust-colored urine",
+    "Foamy urine",
+    "High blood pressure"
+  ],
+  "discharge_instructions": "These are strong medications. Report any fever, cough, or signs of infection to your doctor immediately."
+}

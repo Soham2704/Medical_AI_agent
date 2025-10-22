@@ -1,0 +1,17 @@
+{
+  "patient_name": "Fatima Al-Jamil",
+  "discharge_date": "2024-01-25",
+  "primary_diagnosis": "Polycystic Kidney Disease (PKD)",
+  "medications": [
+    "Tolvaptan 30mg daily",
+    "Ramipril 10mg daily"
+  ],
+  "dietary_restrictions": "Low sodium (2g/day), increase fluid intake to 3L/day",
+  "follow_up": "Nephrology clinic in 1 month, MRI in 6 months",
+  "warning_signs": [
+    "Severe back or side pain",
+    "Blood in urine (hematuria)",
+    "Headache"
+  ],
+  "discharge_instructions": "Monitor your blood pressure at home. Report any severe headaches immediately."
+}

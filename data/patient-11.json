@@ -1,0 +1,19 @@
+{
+  "patient_name": "Kenji Tanaka",
+  "discharge_date": "2024-01-21",
+  "primary_diagnosis": "End-Stage Renal Disease (ESRD) on hemodialysis",
+  "medications": [
+    "Renvela (Sevelamer) 1600mg with meals",
+    "PhosLo (Calcium Acetate) 667mg with snacks",
+    "Paricalcitol (Zemplar) 2mcg MWF"
+  ],
+  "dietary_restrictions": "Strict renal diet (low sodium, potassium, phosphorus) and 1L fluid restriction daily",
+  "follow_up": "Dialysis clinic 3x/week (MWF).",
+  "warning_signs": [
+    "Shortness of breath",
+    "Weight gain > 2kg between dialysis sessions",
+    "Fever or chills (risk of fistula infection)",
+    "Low blood pressure"
+  ],
+  "discharge_instructions": "Keep your dialysis access site (fistula) clean and dry. Check for your 'thrill' (vibration) daily."
+}

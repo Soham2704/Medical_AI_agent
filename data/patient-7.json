@@ -1,0 +1,18 @@
+{
+  "patient_name": "Sarah Chen",
+  "discharge_date": "2024-01-23",
+  "primary_diagnosis": "Diabetic Nephropathy",
+  "medications": [
+    "Insulin Glargine 20 units at bedtime",
+    "Lisinopril 20mg daily",
+    "Metformin 1000mg twice daily"
+  ],
+  "dietary_restrictions": "Carbohydrate-controlled diet (diabetic diet), low sodium (2g/day)",
+  "follow_up": "Endocrinology and Nephrology in 1 month",
+  "warning_signs": [
+    "High blood sugar readings",
+    "Confusion or dizziness",
+    "New swelling in feet"
+  ],
+  "discharge_instructions": "Monitor your blood glucose levels 4 times a day. Do not skip meals."
+}

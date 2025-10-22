@@ -1,0 +1,18 @@
+{
+  "patient_name": "Sophia Lee",
+  "discharge_date": "2024-01-24",
+  "primary_diagnosis": "Acute Kidney Injury (AKI) on CKD",
+  "medications": [
+    "Hold Metformin",
+    "Hold Lisinopril",
+    "IV fluids completed in hospital"
+  ],
+  "dietary_restrictions": "Monitor fluid intake, low potassium diet",
+  "follow_up": "Lab work in 2 days to re-check kidney function",
+  "warning_signs": [
+    "Decreased urine output",
+    "Nausea",
+    "Vomiting"
+  ],
+  "discharge_instructions": "It is very important you get your blood test in 2 days. Do not restart your Metformin or Lisinopril until your doctor tells you it is safe."
+}

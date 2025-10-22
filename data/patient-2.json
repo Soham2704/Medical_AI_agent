@@ -1,0 +1,17 @@
+{
+  "patient_name": "Jane Doe",
+  "discharge_date": "2024-01-20",
+  "primary_diagnosis": "Acute Kidney Injury (AKI)",
+  "medications": [
+    "Discontinue Ibuprofen",
+    "IV Fluids (Normal Saline)"
+  ],
+  "dietary_restrictions": "Monitor fluid intake, low potassium diet",
+  "follow_up": "Nephrology appointment in 1 week, repeat blood test in 3 days",
+  "warning_signs": [
+    "Decreased urine output",
+    "Dizziness",
+    "Fatigue"
+  ],
+  "discharge_instructions": "Do not take any NSAIDs (like Ibuprofen or Naproxen). Stay hydrated."
+}

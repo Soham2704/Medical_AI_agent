@@ -1,0 +1,19 @@
+{
+  "patient_name": "Ethan Williams",
+  "discharge_date": "2024-01-27",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 5 (pre-dialysis)",
+  "medications": [
+    "Amlodipine 10mg daily",
+    "Furosemide 100mg twice daily",
+    "Sevelamer 1600mg with meals"
+  ],
+  "dietary_restrictions": "Very strict low sodium, low potassium, low phosphorus diet. Fluid restriction 1L/day.",
+  "follow_up": "Pre-dialysis education class next week. Nephrology in 2 weeks.",
+  "warning_signs": [
+    "Severe shortness of breath",
+    "Nausea/vomiting",
+    "Confusion",
+    "Itching"
+  ],
+  "discharge_instructions": "Your kidney function is very low. It is critical you follow your diet and fluid limits exactly."
+}

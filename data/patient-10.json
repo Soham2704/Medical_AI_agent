@@ -1,0 +1,19 @@
+{
+  "patient_name": "Tom Allen",
+  "discharge_date": "2024-01-24",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 4",
+  "medications": [
+    "Sevelamer 800mg with meals",
+    "Calcitriol 0.25mcg daily",
+    "Epoetin alfa (Procrit) injection 1x/week"
+  ],
+  "dietary_restrictions": "Low sodium, low potassium, and low phosphorus diet. Fluid restriction 1.5L/day.",
+  "follow_up": "Nephrology and Renal Dietitian in 2 weeks",
+  "warning_signs": [
+    "Itching (pruritus)",
+    "Muscle cramps",
+    "Nausea or vomiting",
+    "Loss of appetite"
+  ],
+  "discharge_instructions": "You must take your phosphate binder (Sevelamer) *with* your meals, not on an empty stomach. Follow diet closely."
+}

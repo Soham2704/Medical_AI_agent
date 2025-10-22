@@ -1,0 +1,18 @@
+{
+  "patient_name": "Michael Wilson",
+  "discharge_date": "2024-01-21",
+  "primary_diagnosis": "Polycystic Kidney Disease (PKD)",
+  "medications": [
+    "Tolvaptan 15mg daily",
+    "Ramipril 10mg daily"
+  ],
+  "dietary_restrictions": "Low sodium diet, increased fluid intake (at least 2.5L/day)",
+  "follow_up": "Nephrology clinic in 1 month",
+  "warning_signs": [
+    "Back or side pain",
+    "Headache",
+    "Blood in urine",
+    "Urinary tract infection symptoms (fever, burning)"
+  ],
+  "discharge_instructions": "Monitor your blood pressure at home. Report any severe headaches immediately."
+}

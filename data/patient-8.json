@@ -1,0 +1,19 @@
+{
+  "patient_name": "David Kim",
+  "discharge_date": "2024-01-22",
+  "primary_diagnosis": "Hypertensive Kidney Disease",
+  "medications": [
+    "Losartan 50mg daily",
+    "Amlodipine 10mg daily",
+    "Hydrochlorothiazide 25mg daily"
+  ],
+  "dietary_restrictions": "Strict low sodium (1.5g/day) diet",
+  "follow_up": "Primary care doctor in 1 week to check blood pressure",
+  "warning_signs": [
+    "Headache",
+    "Dizziness",
+    "Vision changes",
+    "High blood pressure readings (>140/90)"
+  ],
+  "discharge_instructions": "Monitor your blood pressure twice a day (morning and evening) and keep a log."
+}
